@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37086b12-2af5-4dfe-b5c5-d0daf96f5ed0" name="Default Changelist" comment="test" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1454832642">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="browserslist" value="1" />
+          <entry key="css" value="5" />
+          <entry key="html" value="5" />
+          <entry key="ico" value="1" />
+          <entry key="ini" value="1" />
+          <entry key="js" value="2" />
+          <entry key="json" value="6" />
+          <entry key="md" value="1" />
+          <entry key="py" value="39" />
+          <entry key="ts" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="6" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ini" value="35" />
+          <entry key="py" value="1561" />
+          <entry key="ts" value="2" />
+          <entry key="txt" value="20" />
+          <entry key="xml" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="1561" />
+          <entry key="XML" value="83" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ToolMonitoring/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sangfa/sangfa/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sangfa/sangfa/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sangfa/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Groups</find>
+      <find>TEMPLATES</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cffvithitch" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sangfa/polls/migrations/urls.py" />
+        <option value="$PROJECT_DIR$/sangfa/polls/views.py" />
+        <option value="$PROJECT_DIR$/sangfa/polls/models.py" />
+        <option value="$PROJECT_DIR$/sangfa/polls/urls.py" />
+        <option value="$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.ts" />
+        <option value="$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.html" />
+        <option value="$PROJECT_DIR$/my-app/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/ToolMonitoring/config.ini" />
+        <option value="$PROJECT_DIR$/ToolMonitoring/config.xml" />
+        <option value="$PROJECT_DIR$/ToolMonitoring/monitor.py" />
+        <option value="$PROJECT_DIR$/sangfa/sangfa/settings.py" />
+        <option value="$PROJECT_DIR$/sangfa/FrontEOD_Mon/admin.py" />
+        <option value="$PROJECT_DIR$/sangfa/sangfa/urls.py" />
+        <option value="$PROJECT_DIR$/sangfa/FrontEOD_Mon/views.py" />
+        <option value="$PROJECT_DIR$/sangfa/FrontEOD_Mon/urls.py" />
+        <option value="$PROJECT_DIR$/sangfa/FrontEOD_Mon/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="700" />
+    <option name="y" value="50" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sangfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sangfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sangfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sangfa" type="462c0819:PsiDirectoryNode" />
+              <item name="sangfa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sangfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="sangfa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\IT\sangfa\sangfa\polls" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37086b12-2af5-4dfe-b5c5-d0daf96f5ed0" name="Default Changelist" comment="" />
+      <created>1536571636936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536571636936</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20224719" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.5009914" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5009914" side_tool="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.4990086" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/my-app" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sangfa/sangfa/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/views.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/admin.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/apps.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/tests.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/models.py" />
+    <entry file="file://$PROJECT_DIR$/sangfa/polls/urls.py" />
+    <entry file="file://$PROJECT_DIR$/my-app/e2e/src/app.e2e-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/e2e/src/app.po.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/e2e/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/angular/README.md" />
+    <entry file="file://$PROJECT_DIR$/my-app/e2e/tsconfig.e2e.json" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/environments/environment.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/environments/environment.prod.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/browserslist" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/karma.conf.js" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/polyfills.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/test.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.html" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/heroes/heroes.component.css" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/tsconfig.app.json" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/tsconfig.spec.json" />
+    <entry file="file://$PROJECT_DIR$/my-app/src/app/app.component.css" />
+    <entry file="file://$PROJECT_DIR$/sangfa/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/sangfa/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolMonitoring/monitor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/sangfa/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ToolMonitoring/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/sangfa/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/FrontEOD_Mon/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/sangfa/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sangfa/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
