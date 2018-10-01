@@ -1,10 +1,11 @@
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 from django.http import HttpResponse
-from .models import Host,Tool
+from .models import Host, Tool
+
 
 def index(request):
-    user_id = request.user.id
+    # user_id = request.user.id
     current_user = request.user
     return HttpResponse("Welcome: " + str(current_user))
 
@@ -42,19 +43,6 @@ def show_toolsinfo(request, hostname):
     for toolobj in tool_list:
         respond = respond + str(toolobj.log_info) + "<BR>"
     return HttpResponse(respond)
-
-
-def detail(request, question_id):
-    return HttpResponse("You're looking at question %s." % question_id)
-
-
-def results(request, question_id):
-    response = "You're looking at the results of question %s."
-    return HttpResponse(response % question_id)
-
-
-def vote(request, question_id):
-    return HttpResponse("You're voting on question %s." % question_id)
 
 
 """
